@@ -1,16 +1,13 @@
-
----
+# Practice jQuery Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/gZnWhysfwRvq.png">
 </div>
 
-## jQuery
-
 jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License.
 
-|   Index | Name                                           | Level   | Project Link                                                                                     |
-|---------|------------------------------------------------|---------|--------------------------------------------------------------------------------------------------|
+|   Index | Name                                           | Level   | Project Link                                                                                      |
+|---------|------------------------------------------------|---------|---------------------------------------------------------------------------------------------------|
 |      01 | 2048 Web Game Using jQuery                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-2048-web-game-using-jquery)                  |
 |      02 | jQuery Flip Puzzle Game                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-jquery-flip-puzzle-game)                     |
 |      03 | Creating a Minesweeper Game With JavaScript    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript) |
@@ -25,8 +22,9 @@ jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and 
 |      12 | Building a Voting Application                  | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-valuable-vote)                               |
 |      13 | Implementation of AJAX Requests Using JS       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementation-of-ajax-requests-using-js)    |
 
-### More
+## More
 
-- 🔗 [jQuery Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#jquery)
 - 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
