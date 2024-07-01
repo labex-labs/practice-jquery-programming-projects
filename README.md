@@ -6,8 +6,8 @@
 
 jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License.
 
-|   Index | Name                                           | Level   | Project Link                                                                                      |
-|---------|------------------------------------------------|---------|---------------------------------------------------------------------------------------------------|
+|   Index | Name                                           | Level   | Project Link                                                                                     |
+|---------|------------------------------------------------|---------|--------------------------------------------------------------------------------------------------|
 |      01 | 2048 Web Game Using jQuery                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-2048-web-game-using-jquery)                  |
 |      02 | jQuery Flip Puzzle Game                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-jquery-flip-puzzle-game)                     |
 |      03 | Creating a Minesweeper Game With JavaScript    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript) |
