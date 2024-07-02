@@ -6,21 +6,21 @@
 
 jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License.
 
-|   Index | Name                                           | Level   | Project Link                                                                                     |
-|---------|------------------------------------------------|---------|--------------------------------------------------------------------------------------------------|
-|      01 | 2048 Web Game Using jQuery                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-2048-web-game-using-jquery)                  |
-|      02 | jQuery Flip Puzzle Game                        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-jquery-flip-puzzle-game)                     |
-|      03 | Creating a Minesweeper Game With JavaScript    | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript) |
-|      04 | Go to the Next Step                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-go-to-the-next-step)                         |
-|      05 | Implement Portal-like Web Page                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-portal)                                      |
-|      06 | Interactive Film Collection Web App            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-collection-of-films)                         |
-|      07 | Building Responsive Accordion Interfaces       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-folding-accordion)                           |
-|      08 | Fruit Matching Game with HTML, CSS, JavaScript | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-for-fun)                               |
-|      09 | Fruit Stacking Game with HTML, CSS, JavaScript | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-fruit-stacker)                               |
-|      10 | Implement Card Binding Function                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-card-binding-function)             |
-|      11 | Implement User Login Function                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-user-login-function)               |
-|      12 | Building a Voting Application                  | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-valuable-vote)                               |
-|      13 | Implementation of AJAX Requests Using JS       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementation-of-ajax-requests-using-js)    |
+|   Index | Name                                                                                                                        | Level   | Project Link                                                                            |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------|
+|      01 | [2048 Web Game Using jQuery](https://labex.io/courses/project-2048-web-game-using-jquery)                                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-2048-web-game-using-jquery)                  |
+|      02 | [jQuery Flip Puzzle Game](https://labex.io/courses/project-jquery-flip-puzzle-game)                                         | ★☆☆     | [🚀 Start](https://labex.io/courses/project-jquery-flip-puzzle-game)                     |
+|      03 | [Creating a Minesweeper Game With JavaScript](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-minesweeper-game-with-javascript) |
+|      04 | [Go to the Next Step](https://labex.io/courses/project-go-to-the-next-step)                                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-go-to-the-next-step)                         |
+|      05 | [Implement Portal-like Web Page](https://labex.io/courses/project-portal)                                                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-portal)                                      |
+|      06 | [Interactive Film Collection Web App](https://labex.io/courses/project-collection-of-films)                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-collection-of-films)                         |
+|      07 | [Building Responsive Accordion Interfaces](https://labex.io/courses/project-folding-accordion)                              | ★☆☆     | [🚀 Start](https://labex.io/courses/project-folding-accordion)                           |
+|      08 | [Fruit Matching Game with HTML, CSS, JavaScript](https://labex.io/courses/project-fruit-for-fun)                            | ★★☆     | [🚀 Start](https://labex.io/courses/project-fruit-for-fun)                               |
+|      09 | [Fruit Stacking Game with HTML, CSS, JavaScript](https://labex.io/courses/project-fruit-stacker)                            | ★★☆     | [🚀 Start](https://labex.io/courses/project-fruit-stacker)                               |
+|      10 | [Implement Card Binding Function](https://labex.io/courses/project-implement-card-binding-function)                         | ★☆☆     | [🚀 Start](https://labex.io/courses/project-implement-card-binding-function)             |
+|      11 | [Implement User Login Function](https://labex.io/courses/project-implement-user-login-function)                             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-implement-user-login-function)               |
+|      12 | [Building a Voting Application](https://labex.io/courses/project-valuable-vote)                                             | ★★☆     | [🚀 Start](https://labex.io/courses/project-valuable-vote)                               |
+|      13 | [Implementation of AJAX Requests Using JS](https://labex.io/courses/project-implementation-of-ajax-requests-using-js)       | ★☆☆     | [🚀 Start](https://labex.io/courses/project-implementation-of-ajax-requests-using-js)    |
 
 ## More Projects
 
